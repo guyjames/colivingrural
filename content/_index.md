@@ -1,10 +1,9 @@
 ---
-title: REVIC - Un Spotify d'Habitatge
+title: Co-Living Rural
 banner:
-  title: REVIC
+  title: Co-Living Rural
   subtitle: |-
-    Reviving Villages  
-    Inspiring Cities  
+    Ven a vivir en un entorno rural!
   actions:
     - label: Registrar-te
       url: /generic
@@ -23,7 +22,7 @@ sections:
     subtitle: >-
       Sé que necessitem una altra
       manera d'organitzar com vivim.
-      Però estic perduda...   
+      Però estic perduda...
     section_id: one
     background_style: style1
     feature_icons:
@@ -45,13 +44,13 @@ sections:
       - title: |-
           La història s'ha canviat.
         text: >-
-          Però que pot fer una persona sola?          
+          Però que pot fer una persona sola?
         home_img_path: images/mask.jpg
       - title: |-
           Problemes
         text: >-
           Amuntegament, gentrificació, pèrdua de
-          qualitat de vida, augment dels lloguers.          
+          qualitat de vida, augment dels lloguers.
         home_img_path: images/subway.jpg
       - title: |-
           Estic al camp i...
@@ -82,7 +81,7 @@ sections:
         text: >-
           Pobles, ciutats més saludables, resiliència alimentària,
           vincles entre zones rurals i ciutats, educació,
-          economies locals saludables.        
+          economies locals saludables.
         icon: fa-leaf
       - title: Un 'Spotify d'Habitatge'
         text: >-
@@ -92,7 +91,7 @@ sections:
       - title: Redescobriu el vostre propòsit
         text: >-
           Torna a connectar amb la Terra
-          Millor qualitat de vida          
+          Millor qualitat de vida
         icon: fa-diamond
       - title: Forma part de la nova història.
         text: >-
