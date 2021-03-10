@@ -90,17 +90,7 @@ sections:
       - title: Seguro que contribuimos en tu porqué...
         text: >-
           ...y tu para qué, sea el que sea.
-        icon: fa-tree
-      - title: Redescobriu el vostre propòsit
-        text: >-
-          Torna a connectar amb la Terra
-          Millor qualitat de vida
-        icon: fa-diamond
-      - title: Forma part de la nova història.
-        text: >-
-          Es que el nou món ja és aquí! Tenim els coneixements i les eines per crear una
-          nova manera de fer les coses que ens regenerarà tant nosaltres com el planeta.
-        icon: fa-heart-o
+        icon: fa-tree      
     component: features.html
   - type: cta
     title: ¿Te resuena?
