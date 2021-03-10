@@ -56,11 +56,14 @@ sections:
            ...y vive en pueblos y comunidades rurales con espacios de coliving y coworking rural e incubadoras rurales.
         home_img_path: images/coliving.jpg
       - title: |-
-          Estic al camp i...
+          Prueba el coliving rural
         text: >-
-          ...necessito ajuda, física, econòmica -
-          i vull compartir els meus coneixements.
-          No vull que la meva comunitat es destrueixi.
+          Tu puerta de entrada a una vida más rural.
+          Experimenta “lo rural”, y luego, decide.
+          Date la oportunidad de experimentar,
+          descubrir y valorar un cambio posible,
+          en un entorno rural y real
+          para tomar una decisión acertada. La que sea. 
         home_img_path: images/pages_noia.jpg
     component: spotlights.html
   - type: features
