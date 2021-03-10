@@ -58,7 +58,7 @@ sections:
       - title: |-
           Prueba el coliving rural
         text: >-
-          Tu puerta de entrada a una vida más rural.
+          Tu puerta de entrada a una vida más rural, conectada y colectiva.
           Experimenta “lo rural”, y luego, decide.
           Date la oportunidad de experimentar,
           descubrir y valorar un cambio posible,
@@ -67,33 +67,30 @@ sections:
         home_img_path: images/acceleration+solanell.jpg
     component: spotlights.html
   - type: features
-    title: A Catalunya i l'Estat Espanyol
+    title: Te acompañamos
     subtitle: >-
-       Hi han 900,000 cases buides a zones rurals.
+        Para que puedas seleccionar el dónde, el cómo y el cuándo
+        que mejor te encaja,
+        para que tú encuentres tu porqué, y tu para qué.
     section_id: three
     background_style: style3
     features:
-      - title: Crisi = Oportunitat
+      - title: Sin precipitación.
         text: >-
-          Creem una comunitat de persones
-          i una xarxa de propietats.
-        icon: fa-exclamation-circle
-      - title: Lluitem contra
+           Experimenta, conoce el entorno, su gente, conecta con personas y emprendedores afines con los que conversar, colaborar, compartir, emprender, vivir, trabajar……Tú decides qué y cómo.
+        icon: fa-eye
+      - title: En Pandorahub llevamos 6 años construyendo nexos.
         text: >-
-          Especulació, gentrificació, capitalisme extractiu,
-          destrucció del món natural, amuntegament.
-        icon: fa-thumbs-down
-      - title: Estem creant
+          Conectamos personas profesionales y emprendedores de muchas partes del mundo que quieren desarrollar sus vidas, iniciativas y relaciones en el entorno rural.
+        icon: fa-thumbs-up
+      - title: Tú decides dónde y cuándo.
         text: >-
-          Pobles, ciutats més saludables, resiliència alimentària,
-          vincles entre zones rurals i ciutats, educació,
-          economies locals saludables.
+          Entorno natural, espacios de residencia y trabajo en municipios gobernados por ayuntamientos locales dinámicos y abiertos que valoran y buscan la presencia de personas como tú.
         icon: fa-leaf
-      - title: Un 'Spotify d'Habitatge'
+      - title: Seguro que contribuimos en tu porqué...
         text: >-
-          Regenera les economies locals.
-          Criació de famílies sanes
-        icon: fa-headphones
+          ...y tu para qué, sea el que sea.
+        icon: fa-tree
       - title: Redescobriu el vostre propòsit
         text: >-
           Torna a connectar amb la Terra
@@ -106,18 +103,18 @@ sections:
         icon: fa-heart-o
     component: features.html
   - type: cta
-    title: Uneix-te a el moviment!
+    title: ¿Te resuena?
     text: >-
-      Inscriviu-vos a la nostra llista de correu
-      aquí per recibir les últimes novetats.
+      Déjanos tus datos y si vemos que podemos ayudarte,
+      te contactaremos para ofrecerte una primera sesión gratuita de asesoramiento.
     section_id: cta
     background_style: style4
     actions:
-      - label: Registrar-te
+      - label: Registrar
         url: /generic
         is_scrolly: false
         is_primary: true
-      - label: Descobrir
+      - label: Descubrir
         url: /generic
         is_scrolly: false
         is_primary: false
