@@ -48,7 +48,7 @@ sections:
           Llegó el momento de cambiarlo todo.
         text: >-
           En Pandorahub llevamos 6 años conectado personas profesionales y emprendedoras con comunidades rurales abiertas y afines.
-        home_img_path: images/mask.jpg
+        home_img_path: images/solanell.jpg
       - title: |-
           Problemes
         text: >-
