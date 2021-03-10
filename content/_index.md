@@ -63,8 +63,8 @@ sections:
           Date la oportunidad de experimentar,
           descubrir y valorar un cambio posible,
           en un entorno rural y real
-          para tomar una decisión acertada. La que sea. 
-        home_img_path: images/pages_noia.jpg
+          para tomar una decisión acertada. La que sea.
+        home_img_path: images/acceleration+solanell.jpg
     component: spotlights.html
   - type: features
     title: A Catalunya i l'Estat Espanyol
