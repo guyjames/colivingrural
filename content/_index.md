@@ -48,13 +48,13 @@ sections:
           Llegó el momento de cambiarlo todo.
         text: >-
           En Pandorahub llevamos 6 años conectado personas profesionales y emprendedoras con comunidades rurales abiertas y afines.
+          Ponemos a tu disposición nuestra propia experiencia y la de nuestra red de proyectos colaborador@s rurales y rural shakers para acompañarte en este momento de ruralización global.
         home_img_path: images/solanell.jpg
       - title: |-
-          Problemes
+          Descubre...
         text: >-
-          Amuntegament, gentrificació, pèrdua de
-          qualitat de vida, augment dels lloguers.
-        home_img_path: images/subway.jpg
+           ...y vive en pueblos y comunidades rurales con espacios de coliving y coworking rural e incubadoras rurales.
+        home_img_path: images/coliving.jpg
       - title: |-
           Estic al camp i...
         text: >-
