@@ -3,26 +3,29 @@ title: Co-Living Rural
 banner:
   title: Co-Living Rural
   subtitle: |-
-    Ven a vivir en un entorno rural!
+    Tu puerta de entrada a una vida más rural, conectada y colectiva.
   actions:
-    - label: Registrar-te
+    - label: Registrar
       url: /generic
       is_scrolly: false
       is_primary: true
   bottom_link:
-    label: Descobrir
+    label: Descubrir
     url: '#one'
     has_arrow: true
     is_scrolly: true
 sections:
   - type: icons
     title: |-
-      Les coses estan trencades
-
+      ¡Siente la llamada rural!
     subtitle: >-
-      Sé que necessitem una altra
-      manera d'organitzar com vivim.
-      Però estic perduda...
+      Deja atrás las incoherencias.
+      Cambia lo que haces, cómo lo haces
+      y para quién lo haces.
+      Re-conecta con la naturaleza,
+      con nuestra esencia,
+      con nuestras raíces,
+      con nosotr@s mism@s.
     section_id: one
     background_style: style1
     feature_icons:
@@ -42,9 +45,9 @@ sections:
     background_style: style2
     spotlights:
       - title: |-
-          La història s'ha canviat.
+          Llegó el momento de cambiarlo todo.
         text: >-
-          Però que pot fer una persona sola?
+          En Pandorahub llevamos 6 años conectado personas profesionales y emprendedoras con comunidades rurales abiertas y afines.
         home_img_path: images/mask.jpg
       - title: |-
           Problemes
